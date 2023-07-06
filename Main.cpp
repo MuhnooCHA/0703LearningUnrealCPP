@@ -16,6 +16,6 @@ class Transition
 
 int main()
 {
-	EnemyState Troll;
-	Transition StateforEnemy;
+	EnemyState Troll[4];
+	Transition StateforEnemy[5];
 }
